@@ -1,8 +1,10 @@
 # Musla - Electron JS
+Chương trình phát ra UwU khi đang cắp sạc laptop phiên bản bản Desktop App của Quohat Tesla.
 
-**Clone and run for a quick way to see Electron in action.**
+![cap](https://user-images.githubusercontent.com/39693803/131819299-60eec24b-8aa4-4863-bb41-f4961015bf06.PNG)
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+
+
 
 **Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
