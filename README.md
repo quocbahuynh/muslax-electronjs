@@ -5,7 +5,7 @@ Chương trình phát ra UwU khi đang cắp sạc laptop phiên bản bản Des
 
 ## To Use (for developer)
 
-Để clonecái repository này của tôi, trước hết bạn cần chắc chắn bạn đã cài [Git](https://git-scm.com) và [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) trên máy tính của bạn. Còn cài thế nào thì tôi không biết, sau khi đã cài đặt những thứ trên. Hãy mở command line của bạn và dán đoạn mã này vào:
+Để clone  cái repository này của tôi, trước hết bạn cần chắc chắn bạn đã cài [Git](https://git-scm.com) và [Node.js](https://nodejs.org/en/download/)  trên máy tính của bạn. Còn cài thế nào thì tôi không biết, sau khi đã cài đặt những thứ trên. Hãy mở command line của bạn và dán đoạn mã này vào:
 
 ```bash
 # Clone this repository
