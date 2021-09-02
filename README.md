@@ -5,8 +5,6 @@ Chương trình phát ra UwU khi đang cắp sạc laptop phiên bản bản Des
 
 ## To Use (for developer)
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
 Để clonecái repository này của tôi, trước hết bạn cần chắc chắn bạn đã cài [Git](https://git-scm.com) và [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) trên máy tính của bạn. Còn cài thế nào thì tôi không biết, sau khi đã cài đặt những thứ trên. Hãy mở command line của bạn và dán đoạn mã này vào:
 
 ```bash
