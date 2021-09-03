@@ -1,4 +1,4 @@
-# Musla (demo version) - Electron JS
+# MuslaX (demo version) - Electron JS
 Chương trình phát ra UwU khi đang cắp sạc laptop phiên bản Desktop App của Quohat Tesla.
 
 ![cap](https://user-images.githubusercontent.com/39693803/131819299-60eec24b-8aa4-4863-bb41-f4961015bf06.PNG)
